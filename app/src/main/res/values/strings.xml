@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">work</string>
+    <string name="password">PASSWORD :</string>
+    <string name="sign_in">Sign in</string>
+    <string name="id">ID:</string>
+    <string name="todo">TODO</string>
+</resources>
